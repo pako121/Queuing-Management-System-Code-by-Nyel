@@ -1,0 +1,48 @@
+:root {
+  --background-color: #242438;
+  --text-color: #ffffff;
+}
+
+/*
+-----------------------------
+BODY STYLE/CSS --
+-----------------------------
+*/
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+#bs-background {
+  background-color: var(--background-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+span,
+button {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+#queue-logo {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+/*
+-----------------------------
+CSS // LOGIN.PHP -----------
+-----------------------------
+*/
+
+/* From Uiverse.io by 3bdel3ziz-T */
